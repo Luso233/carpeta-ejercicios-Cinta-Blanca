@@ -1,0 +1,28 @@
+.bgimage {
+	width: auto;
+	height: 295px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOA5AGaoZQCz7vYiAR0zELtYdVMIqmxOv8qbJzPurwx4HTkVK0");
+
+}
+.jedline {
+	width: 446px;
+	height: 116px;
+}
+.prro{
+	font-family: "Impact";
+	color: white;
+	font-size: 60px;
+	text-align: center;
+	text-shadow: 2px black;
+}
+.formulariooo{
+	
+}
+.testo{
+	color: white;
+}
+
+.coyote{
+	width: 100px;
+	height: 10px;
+}

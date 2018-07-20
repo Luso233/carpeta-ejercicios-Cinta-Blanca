@@ -1,0 +1,23 @@
+*{
+	background: #212121;
+}
+h1 {
+	font-size: 4rem;
+	font-family: "Comic Sans MS";
+color: #FBC02D;
+border: 4px solid #FBC02D;
+text-align: center;
+}
+h2 {
+font-size: 3rem;
+font-family: "Comic Sans MS";
+color: #FBC02D;
+text-align: center;
+}
+p {
+font-size: 2rem;
+	font-family: "Comic Sans MS";
+color: #FBC02D;
+text-align: center;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;	
+}

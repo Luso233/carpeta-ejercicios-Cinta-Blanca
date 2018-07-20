@@ -1,0 +1,11 @@
+let arreglo = [];
+let nombre = prompt("Ingresa tu nombre");
+let apellido = prompt ("Ingresa tu apellido");
+let edad = prompt ("Ingresa tu edad");
+let correo = prompt ("Ingresa tu correo");
+arreglo =[nombre, apellido, edad, correo];
+console.log(nombre);
+console.log(apellido);
+console.log(edad);
+console.log(correo);
+console.log (arreglo);

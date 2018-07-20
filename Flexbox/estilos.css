@@ -1,0 +1,12 @@
+.papa{
+	border: solid 1px;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	height: 400px;
+}
+.hijo{
+	border: 1px solid blue;
+	height: 50px;
+	width: 20%;
+}

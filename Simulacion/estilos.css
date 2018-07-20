@@ -1,0 +1,13 @@
+*{
+	font-family: "Comic Sans MS";
+}
+
+.contenedor {
+	border: 2px solid white;
+	justify-content: center;
+}
+.titulo{
+font-family: "Impact";
+color: #ffffff;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
